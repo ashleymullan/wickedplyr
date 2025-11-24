@@ -1,0 +1,22 @@
+Package: wickedplyr
+Title: Rejoicify while you wrangle your data!
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Ashley", "Mullan",
+      email = "ashleymullan2000@gmail.com",
+      role = c("aut", "cre")
+    ),
+    person(
+      "Hannah", "Klinger",
+      email = "hannah.email@email.com",
+      role = c("aut")
+    )
+  )
+Description: Translate the famous dplyr package into the Ozian dialect.
+License: GPL-2
+Encoding: UTF-8
+Imports:
+  dplyr
+RoxygenNote: 7.3.2
+
