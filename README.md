@@ -21,4 +21,5 @@ devtools::install_github(repo = "ashleymullan/wickedplyr")
 | dplyr | wickedplyr |
 |---|---|
 | filter() | toss_toss() |
-| arrange() | defy_gravity()|
+| arrange() | defy_gravity() |
+| mutate() | change_for_good() |
