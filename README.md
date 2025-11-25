@@ -15,3 +15,10 @@ package and can be done in the following way.
 ``` r
 devtools::install_github(repo = "ashleymullan/wickedplyr")
 ```
+
+# I will henceforth be known no longer as dplyr, but simply ... wickedplyr.
+
+| dplyr | wickedplyr |
+|---|---|
+| filter() | toss_toss() |
+| arrange() | defy_gravity()|
