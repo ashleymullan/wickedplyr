@@ -11,7 +11,7 @@ NULL
 #' @export
 #' @examples
 #' data <- read.csv("https://raw.githubusercontent.com/ashleymullan/wickedplyr/refs/heads/main/all_about_oz.csv")
-#' data |> defy_gravity(swankifiedness) #
+#' data |> defy_gravity(swankifiedness)
 defy_gravity <- function(.data, ...) {
   dplyr::arrange(.data, ...)
 }
